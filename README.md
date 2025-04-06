@@ -11,4 +11,4 @@ This dashboard provides equipment operators with insights into their weekly and 
 Below is a snapshot of dashboard.
 
 The interactive dashboard can be found here.
-<p align="left"><img src="https://github.com/dmokafor/CHE_Operator_Performance_Dashboard/blob/main/Screenshots/CHE_Operator_Performance_Dashboard.png" alt="Dashboard Snapshot"></p>
+<p align="left"><img src="https://github.com/dmokafor/CHE_Operator_Performance_Dashboard/blob/main/screenshots/CHE_Operator_Performance_Dashboard.png" alt="Dashboard Snapshot"></p>
